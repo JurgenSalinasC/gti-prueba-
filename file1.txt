@@ -1,2 +1,4 @@
 Prueba para la clase de Git del Bootcamps de CF.
 descripcion del archivo
+contribuidores del proyecto
+2.3hoalsdjasd
